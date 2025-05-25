@@ -1,3 +1,5 @@
+import bgCommon from '@/public/locales/bg/common.json';
+import enCommon from '@/public/locales/en/common.json';
 import i18next from 'i18next';
 import { initReactI18next } from 'react-i18next';
 
@@ -14,10 +16,10 @@ if (typeof window !== 'undefined') {
     .init({
       resources: {
         en: {
-          common: require('@/public/locales/en/common.json'),
+          common: enCommon,
         },
         bg: {
-          common: require('@/public/locales/bg/common.json'),
+          common: bgCommon,
         },
       },
       lng: initialLanguage,

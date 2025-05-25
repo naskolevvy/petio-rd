@@ -125,23 +125,3 @@ export function Navigation() {
     </nav>
   )
 }
-
-function LanguagePicker({ onChange }: { onChange: (locale: string) => void }) {
-  const { i18n } = useTranslation("common")
-  const currentLocale = i18n.language
-
-  return (
-    <DropdownMenu>
-      <DropdownMenuTrigger asChild>
-        <Button variant="outline" size="sm" className="bg-white/80 backdrop-blur-sm">
-          <Globe className="w-4 h-4 mr-2" />
-          {currentLocale === "en" ? "EN" : "БГ"}
-        </Button>
-      </DropdownMenuTrigger>
-      <DropdownMenuContent>
-        <DropdownMenuItem onClick={() => onChange("en")}>🇺🇸 English</DropdownMenuItem>
-        <DropdownMenuItem onClick={() => onChange("bg")}>🇧🇬 Български</DropdownMenuItem>
-      </DropdownMenuContent>
-    </DropdownMenu>
-  )
-} 
