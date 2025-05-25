@@ -1,0 +1,92 @@
+{
+  "navigation": {
+    "title": "Tandem Jump",
+    "languages": {
+      "en": "English",
+      "bg": "Bulgarian"
+    },
+    "sections": {
+      "about": "About",
+      "reserve": "Reserve",
+      "voucher": "Verify Voucher"
+    }
+  },
+  "hero": {
+    "title": "Experience the Ultimate Thrill",
+    "subtitle": "Tandem Skydiving in Bulgaria",
+    "description": "Feel the rush of freefall and enjoy breathtaking views from 4000 meters above the ground."
+  },
+  "about": {
+    "title": "About Tandem Skydiving",
+    "whatsIncluded": "What's Included?",
+    "safetyFirst": "Safety First",
+    "items": {
+      "1": "Professional tandem instructor and full safety equipment",
+      "2": "Comprehensive briefing and training session",
+      "3": "Flight to 3500m height for maximum excitement",
+      "4": "Free fall and safe landing with parachute",
+      "5": "Video recording of the jump (additional service)",
+      "6": "The jump includes jumping from 3500m without a parachute next to an experienced instructor who will equip you with your parachute at around 1500m above the ground"
+    },
+    "safetyDescription1": "Our experienced instructors have completed thousands of successful jumps. We use only the highest quality equipment and follow strict safety protocols to ensure your adventure is both exciting and safe.",
+    "safetyDescription2": "All participants receive comprehensive training before the jump, and our tandem system means you're securely attached to a certified instructor throughout the experience."
+  },
+  "reserve": {
+    "title": "RESERVE",
+    "subtitle": "Book your tandem skydiving today!",
+    "ready": "Ready for the adventure?",
+    "description": "Make the jump and book your unforgettable tandem skydiving experience. Our team will contact you within 24 hours to confirm your reservation and schedule your jump date.",
+    "callUs": "Call us:",
+    "button": "RESERVE NOW",
+    "notice": "* Reservations require 48-hour notice"
+  },
+  "voucher": {
+    "title": "Verify Your Voucher",
+    "description": "Enter your voucher code below to check its validity and view reservation details.",
+    "label": "Voucher Reference Code",
+    "placeholder": "Enter your voucher code",
+    "button": "VERIFY VOUCHER",
+    "close": "Close",
+    "trouble": "Having trouble with your voucher? Contact our support team for assistance.",
+    "enterCode": "Please enter a voucher code",
+    "validation": {
+      "success": {
+        "title": "Voucher is Valid!",
+        "validFrom": "Valid from",
+        "validUntil": "Valid until",
+        "assignedTo": "Assigned to",
+        "contact": "For reservations or questions, please call"
+      },
+      "error": {
+        "title": "Invalid Voucher",
+        "message": "The voucher code you entered is not valid."
+      }
+    }
+  },
+  "footer": {
+    "description": "Experience the ultimate adventure with our professional skydiving team.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "address": "Sofia Airport, Bulgaria",
+    "copyright": "© 2024 Tandem Jump. All rights reserved.",
+    "terms": "Terms & Conditions"
+  },
+  "terms": {
+    "title": "TERMS AND CONDITIONS FOR \"TANDEM JUMP WITHOUT PARACHUTE\" VOUCHER",
+    "rules": {
+      "1": "The voucher is personal and can only be used by the person whose name is written in the corresponding field. Transfer of the voucher to third parties is not allowed.",
+      "2": "The voucher is non-refundable and non-exchangeable. If you decide not to use the service, this is considered a voluntary cancellation and the voucher is void.",
+      "3": "In case of voluntary cancellation of the jump, the participant is automatically registered in the \"Registry of People with Serious Acrophobia and/or Suspected Homosexuality\". The registration is final and not subject to appeal.",
+      "4": "The company is not responsible for the life and health of the participant. The jump is extreme and participation is entirely at your own risk.",
+      "5": "The jump is performed from a height of 5000 meters, without providing an oxygen mask. Breathing in the first 30 seconds is desirable but not guaranteed.",
+      "6": "The participant's parachute is not provided at takeoff. The instructor carries the parachute and has the right to decide when and whether to give it to the participant, usually around 2000 meters above ground.",
+      "7": "If the participant loses consciousness, there is a real danger that the instructor may not be able to attach the parachute in time, which could lead to a fatal outcome. However, everything possible will be done to prevent this.",
+      "8": "The voucher is valid for 4 months from the date of issue. After this period, the voucher automatically expires, unless extended by a special written statement signed by two notaries and one psychiatrist.",
+      "9": "The jump includes a brief theoretical briefing, usually lasting about 30 seconds, mainly with gestures and expressive looks.",
+      "10": "A soft landing is not guaranteed. Accept that the most important thing is that it's a \"landing\".",
+      "11": "The instructor has the right to sing, tell jokes, or quote Shakespeare during the jump. This is to distract from the thought of the impending danger.",
+      "12": "All participants sign a declaration that they are fully aware of the risk and still wish to jump, despite the above conditions. Or precisely because of them.",
+      "13": "If you survive, you receive a branded gift and immediate respect among your friends (including the right to brag on social media for at least 6 months)."
+    }
+  }
+} 
