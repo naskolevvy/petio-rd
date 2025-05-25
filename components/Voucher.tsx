@@ -40,7 +40,7 @@ export function Voucher() {
     }
 
     setError("")
-    if (voucherCode === "12345") {
+    if (voucherCode === "86304747314") {
       setIsValid(true)
       setIsModalOpen(true)
     } else {
